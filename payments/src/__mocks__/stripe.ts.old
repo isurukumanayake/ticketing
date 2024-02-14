@@ -1,0 +1,5 @@
+export const stripe = {
+  charges: {
+    create: jest.fn().mockResolvedValue({}), // make sure whenever we call create, it will resolve itself with an empty object
+  },
+};
