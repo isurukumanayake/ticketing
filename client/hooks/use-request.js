@@ -1,6 +1,7 @@
 import axios from "axios";
 import { useState } from "react";
 
+// custom hook to make requests
 const useRequest = ({ url, method, body, onSuccess }) => {
   const [errors, setErrors] = useState(null);
 
