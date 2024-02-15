@@ -38,5 +38,5 @@
     <img src="https://github.com/isurukumanayake/ticketing/assets/137193960/5bbc2907-9000-4a24-a0f7-0fb2098f9c5c" >
     <br/><hr><br/>
     <img src="https://github.com/isurukumanayake/ticketing/assets/137193960/2e67d624-6a8a-484f-b0e2-ffb4fc3f536b" >
-    <br/><hr><br/>
+    <br/>
 </div>
