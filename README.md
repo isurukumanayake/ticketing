@@ -7,7 +7,6 @@
     <br/><hr><br/>
     <img src="https://github.com/isurukumanayake/ticketing/assets/137193960/588988bc-6ccf-47cb-96c3-435a8d4d5bdc" >
     <br/><hr><br/>
-  
     <img src="https://github.com/isurukumanayake/ticketing/assets/137193960/40daa3b3-20ff-4256-8f6c-0dd6afbd3da8" >
     <br/><hr><br/>
     <img src="https://github.com/isurukumanayake/ticketing/assets/137193960/b0a6f954-24b1-4091-a8c9-f9d715af4040" >
@@ -22,7 +21,6 @@
     <br/><hr><br/>
     <img src="https://github.com/isurukumanayake/ticketing/assets/137193960/1b6dfbfe-cc33-4a8e-9daa-167a1a2e7add" >
     <br/><hr><br/>
-  
     <img src="https://github.com/isurukumanayake/ticketing/assets/137193960/006b994c-b07d-45a4-92db-5a59a9f192fe" >
     <br/><hr><br/>
     <img src="https://github.com/isurukumanayake/ticketing/assets/137193960/d0a82503-4de1-400e-af6c-1f2c6369b2e5" >
